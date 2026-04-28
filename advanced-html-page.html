@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="My Advanced HTML Page">
+
+    <title>Advanced HTML Page</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.png" type="image/png">
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header>
+        <h1 id="main-title">My Website</h1>
+    </header>
+
+    <!-- NAVIGATION -->
+    <nav>
+        <a href="#" class="nav-link">Home</a> |
+        <a href="#" class="nav-link">About</a> |
+        <a href="#" class="nav-link">Contact</a>
+    </nav>
+
+    <hr>
+
+    <!-- MAIN CONTENT -->
+    <main>
+
+        <!-- SECTION -->
+        <section>
+            <h2>About Me</h2>
+            <p title="Intro paragraph">
+                Hello, my name is <strong>Moueen</strong>. I am learning HTML.
+            </p>
+        </section>
+
+        <!-- ARTICLE -->
+        <article>
+            <h2>My Blog</h2>
+            <p>This is my first blog post.</p>
+        </article>
+
+        <!-- ASIDE -->
+        <aside>
+            <p>Related links will appear here.</p>
+        </aside>
+
+        <!-- IMAGE WITH CAPTION -->
+        <figure>
+            <img src="image.jpg.jpeg" alt="Sample Image" width="200">
+            <figcaption>This is a sample image</figcaption>
+        </figure>
+
+        <!-- DETAILS -->
+        <details>
+            <summary>Click for more info</summary>
+            <p>This is hidden content.</p>
+        </details>
+
+    </main>
+
+    <hr>
+
+    <!-- FORM -->
+    <section>
+        <h2>Registration Form</h2>
+
+        <form action="submit.html" method="GET" autocomplete="on">
+
+            <fieldset>
+                <legend>Personal Info</legend>
+
+                <label for="name">Name:</label><br>
+                <input type="text" id="name" required minlength="3"><br><br>
+
+                <label for="email">Email:</label><br>
+                <input type="email" id="email" required><br><br>
+
+                <label for="age">Age:</label><br>
+                <input type="number" id="age" min="1" max="100"><br><br>
+
+            </fieldset>
+
+            <br>
+
+            <fieldset>
+                <legend>Other Info</legend>
+
+                <label>Gender:</label><br>
+                <input type="radio" name="gender"> Male
+                <input type="radio" name="gender"> Female<br><br>
+
+                <label>Skills:</label><br>
+                <input type="checkbox"> HTML
+                <input type="checkbox"> CSS<br><br>
+
+                <label>Country:</label><br>
+                <select>
+                    <option>Pakistan</option>
+                    <option>India</option>
+                </select><br><br>
+
+                <label>Message:</label><br>
+                <textarea rows="4" cols="30"></textarea><br><br>
+
+            </fieldset>
+
+            <input type="submit" value="Submit">
+            <input type="reset">
+
+        </form>
+    </section>
+
+    <hr>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>© 2026 My Website</p>
+    </footer>
+
+</body>
+
+</html>
