@@ -82,6 +82,8 @@ These files demonstrate understanding of core HTML concepts and serve as referen
 
 A complete, modern portfolio website built with semantic HTML, showcasing professional presence and web development expertise.
 
+**Live Website:** This is a fully functional portfolio demonstrating real-world HTML implementation with professional design patterns and best practices.
+
 ### Pages Included:
 
 | Page | Purpose |
