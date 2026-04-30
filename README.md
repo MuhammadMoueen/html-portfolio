@@ -130,13 +130,19 @@ A complete, modern portfolio website built with semantic HTML, showcasing profes
    ```bash
    # Navigate to the Real Projects folder
    cd "Real Projects"
-   # Open portfolio.html in your browser
+   # Open portfolio.html in your browser (or use Live Server extension)
    ```
+
+3. **Quick Start with VS Code Live Server:**
+   - Install Live Server extension
+   - Right-click `portfolio.html` → "Open with Live Server"
+   - Website opens automatically in your browser
 
 ### Explore Practice Files:
 ```bash
 cd "Practice Work"
 # Open any .html file in your browser to see the examples
+# Perfect for learning different HTML concepts!
 ```
 
 ---
