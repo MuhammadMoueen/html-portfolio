@@ -181,7 +181,23 @@ This project is open source and available for learning and reference purposes.
 
 ---
 
-## 🎓 Learning Outcomes
+## 📝 Examples
+
+### Practice Work Examples:
+- **mypage.html** - Basic HTML page structure
+- **semantic-page.html** - Semantic HTML5 elements usage
+- **student-table.html** - Data tables with proper structure
+- **registration-form.html** - User input forms and validation
+- **media-page.html** - Working with images and multimedia
+- **advanced-html-page.html** - Complex page layouts and patterns
+
+### Real Projects Pages:
+- **portfolio.html** - Professional landing page
+- **about.html** - Personal introduction with professional background
+- **skills.html** - Skills and technical competencies showcase
+- **contact.html** - Contact form and information
+
+---
 
 By exploring this repository, you'll understand:
 - Progressive HTML skill development
