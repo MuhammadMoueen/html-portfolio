@@ -1,5 +1,5 @@
 # 🌐 HTML Portfolio
-Html
+
 A comprehensive repository showcasing HTML mastery through progressive learning and real-world portfolio projects. This repository contains both practice exercises and a fully-featured modern HTML portfolio website.
 
 ---
